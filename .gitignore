@@ -1,0 +1,34 @@
+# Directorios generados por Visual Studio
+.vs/
+
+# Directorio binario generado
+/bin/
+/obj/
+
+# Dependencias de NuGet
+**/bin/
+**/obj/
+
+# Archivos de compilación generados
+*.dll
+*.pdb
+*.exe
+
+# Paquetes NuGet
+*.nuget.packages
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.backup
+*.tmp
+*.log
+
+# Carpetas de archivos de caché
+[Cc]ache/
+[Oo]bj/
